@@ -1,6 +1,6 @@
 package com.mathduel.domain.models
 
-data class Player(
-    val name: String = "",
-    val score: Int = 0
-) 
+//data class Player(
+//    val name: String = "",
+//    val score: Int = 0
+//)

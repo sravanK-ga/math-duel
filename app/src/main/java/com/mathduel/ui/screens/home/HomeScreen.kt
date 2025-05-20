@@ -43,7 +43,7 @@ fun HomeScreen(navController: NavController) {
         Spacer(modifier = Modifier.height(48.dp))
         
         Button(
-            onClick = { navController.navigate(Screen.Game.route) }
+            onClick = { navController.navigate(Screen.PlayerSetup.route) }
         ) {
             Text(
                 text = "Start New Game",
